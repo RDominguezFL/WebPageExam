@@ -1,0 +1,34 @@
+td, p {
+		
+			width: 60%;
+		height: 60%;
+			font-style: italic;
+         padding: 10px; 
+
+
+			height: auto;
+		font-size: 15.5;
+}
+
+h1, h2, h3 {
+		
+		padding:5px; 
+			font-size: 15.5;   /* el font 15.5  es  tiene  support  en  HTML 2.0 nada mas*/
+		font-family: Verdana;
+} 
+
+h1{
+    color:red; 
+     
+
+}
+
+
+body {
+    /*esto le esta  dando  el background  amarillo a la pagina entera  y  en el  documento de la profe  es  blanco???  */
+    background-color: lightyellow;
+}
+
+table {
+		background-color: #FFFFFF
+}
